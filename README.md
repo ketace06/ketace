@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ismail.omaramin06@gmail.com**
 
-- ⚡ Fun fact **I play piano and video games**
+- ⚡ Fun fact **I play piano, video games, listen to music and watch anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
