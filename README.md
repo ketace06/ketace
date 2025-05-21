@@ -1,24 +1,54 @@
-<h1 align="center">Hi 👋, I'm Ketace</h1>
-<h3 align="center">An IT enthusiast and an apprentice in application development</h3>
+# Hi there 👋, I'm Ketace
 
-- 🔭 I’m currently working on a TodoList React [ToDo List React](https://github.com/ketace06/Todo-list-React)
+### 🚀 About Me
+I'm an IT enthusiast and an aspiring application developer passionate about building useful and elegant solutions.
 
-- 👨‍💻 All of my projects are available at (WIP) [https://github.com/ketace06/my-portfolio](https://github.com/ketace06/my-portfolio)
+### 🔭 What I'm Working On
+Currently developing a **Todo List app with React** — check out my progress!
 
-- 📫 How to reach me **ismail.omaramin06@gmail.com**
+### 💻 My Projects
+All of my projects are available (WIP) in my portfolio:  
+[https://github.com/ketace06/my-portfolio](https://github.com/ketace06/my-portfolio)
 
-- ⚡ Fun fact **I play piano, video games, listen to music and watch anime**
+### 📫 How to Reach Me
+Feel free to connect or send me a message at:  
+✉️ **ismail.omaramin06@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/ketace06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ketace06" height="30" width="40" /></a>
-</p>
+### ⚡ Fun Facts
+When I'm not coding, I enjoy:  
+🎹 Playing piano  
+🎮 Gaming  
+🎧 Listening to music  
+📺 Watching anime  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ketace06&show_icons=true&locale=en&layout=compact" alt="ketace06" /></p>
+### 🌐 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-@ketace06-181717?style=for-the-badge&logo=github)](https://github.com/ketace06)  
+<!-- Add other socials here if you want -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ketace06&show_icons=true&locale=en" alt="ketace06" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ketace06&" alt="ketace06" /></p>
+### 🛠️ Languages & Tools
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![Ketace's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketace06&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketace06&layout=compact&theme=radical)  
+
+### 🏆 GitHub Trophies
+![Ketace's GitHub trophies](https://github-profile-trophy.vercel.app/?username=ketace06&theme=radical)
+
+---
+
+Thanks for visiting my profile! Feel free to drop a message or collaborate 🚀
