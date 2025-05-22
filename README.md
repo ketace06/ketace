@@ -48,8 +48,7 @@
 
 ## 🎮 Fun Facts
 
-Piano enthusiast, gamer, music lover, anime fan, and endlessly curious.
-
+I play video games and the piano, I watch TV series and anime, and I'm endlessly curious.
 
 ---
 
