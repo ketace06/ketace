@@ -1,19 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&text=Ketace&fontSize=32&animation=fadeIn&fontAlignY=30&descSize=12&descAlignY=46&descAlign=54.5&desc=Sleep.%20Eat.%20Code.%20Repeat."/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&text=Ketace&fontSize=32&animation=fadeIn&fontAlignY=30&descSize=12&descAlignY=46&descAlign=54.5&desc=Coding%20is%20cool."/>
 </div>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGM2a2x0YTJicG53amh3bHA3aWo4N3hudnU5bDFycDd5NHQydDF3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xLhaNM3w4mQgWAWi19/giphy.gif" alt="OSHI NO KO GIF" width="250"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQxN3d1MGh5cHgzMTdxZmQ0aW4zdXJndGViM3F0Y2U0aGNxY2V1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/111ebonMs90YLu/giphy.gif" alt="Thumbs up" width="500"/>
 </p>
 
 <p align="center">
   👋 Hi there! I'm <strong>Ketace</strong>  
   <br>
-  💻 I'm a passionate Application Development Apprentice  
-  🎯 Always learning, always building  
-  🛠️ Based in Switzerland  
-  <br><br>
-  📬 If you think of something incredible, contact me: <a href="mailto:ismail.omaramin06@gmail.com">ismail.omaramin06@gmail.com</a>  
+  I'm an Application Development Apprentice who loves learning and creating cool things. I live in Switzerland and spend my free time playing video games, watching anime and TV series, playing piano, and diving into whatever catches my curiosity.
 </p>
 
 <p align="center">
@@ -42,30 +38,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="40" />
+  <img src="https://godotengine.org/assets/press/icon_color.svg" width="40">
 </p>
 
 ---
 
-## 🎮 Fun Facts
-
-I play video games and the piano, I watch TV series and anime, and I'm endlessly curious.
-
----
-
-## 🚧 Projects (WIP)
+## 🚧 Portfolio (WIP)
 
 <div align="center">
   <a href="https://github.com/ketace06/my-portfolio">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ketace06&repo=my-portfolio&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
-
----
-
-
-## 📌 Follow My Work
-
-- 🚀 Current: Todo List App in React (coming soon!)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
